@@ -19,3 +19,11 @@ assignees: ''
 Who is affected, and what is hard today?
 
 ## Proposed solution
+What you would like to see.
+
+## Alternatives considered
+Other ways to solve it.
+
+## Acceptance criteria
+- [ ] 
+- [ ]
